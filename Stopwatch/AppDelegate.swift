@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Navigation Bar
+//  Stopwatch
 //
 //  Created by 이승희 on 2016. 3. 5..
 //  Copyright © 2016년 이승희. All rights reserved.

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CAECF931E63BF4DDF14098C1BD746DB31F72F2EA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FF73226AFCD9926FE569AD15775D9B5F7A2B9F0E" : 0,
+    "CAECF931E63BF4DDF14098C1BD746DB31F72F2EA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0ADC022E-8412-4AC3-A161-A5BAE87F3EC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FF73226AFCD9926FE569AD15775D9B5F7A2B9F0E" : "",
+    "CAECF931E63BF4DDF14098C1BD746DB31F72F2EA" : "Swift2-tabbar_example\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Stopwatch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Stopwatch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seunghee2\/Swift2-tabbar_example",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CAECF931E63BF4DDF14098C1BD746DB31F72F2EA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seunghee2\/Swift2-Basic-with-iOS9-and-Xcode7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF73226AFCD9926FE569AD15775D9B5F7A2B9F0E"
+    }
+  ]
+}
